@@ -28,6 +28,7 @@
 
 	<!-- Define the web application entry point -->
 	<welcome-file-list>
+		<welcome-file>google6ec0e17bcc583543.html</welcome-file>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
 
